@@ -1,8 +1,9 @@
-body {
-background: url(../image/Desert.jpg);
-}
-
-.model {
-    padding: 40px; 
-    background: rgba(0,0,0,0.5);
+.tag {
+    display: inline-block;
+    color: white;
+    background-color: rgb(55, 171, 253);
+    margin: 4px 4px; 
+    padding: 5px;
+    border-radius: 4px;
+    text-decoration: none;
 }
